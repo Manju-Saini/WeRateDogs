@@ -9,7 +9,7 @@ This project was part of the data wrangling section of the Udacity Data Analyst 
 
 In this project, we will gather data from a variety of sources and in a variety of formats, assess its quality and tidiness, then clean it using Python and its libraries.
 
-The tasks for this project were:
+The tasks for this project are:
 
 - Data wrangling, which consists of:
   - Gathering data
